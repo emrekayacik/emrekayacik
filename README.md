@@ -1,4 +1,4 @@
-### I'm not so good at writing introductions, just enjoy my repos
+### 📫 I'm not so good at writing introductions, just enjoy my projects 📫
 
 <!--
 **emrekayacik/emrekayacik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
