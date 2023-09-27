@@ -1,4 +1,4 @@
-### 📫 I'm not so good at writing introductions, just enjoy my projects 📫
+### 📫 Hi 📫
 
 - 🔭 I’m currently working on .NET
 - 🌱 I’m currently learning Java Spring Boot and building projects on it.
